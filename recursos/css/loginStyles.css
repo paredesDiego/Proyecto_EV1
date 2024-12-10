@@ -39,3 +39,10 @@ body {
     background-color: var(--clr-main-light);
     transition: 0.4s;
 }
+
+.error-message {
+    color: red; /* Color rojo para los mensajes de error */
+    font-size: 12px; /* Tamaño pequeño para los mensajes */
+    margin-bottom: 10px; /* Espaciado inferior */
+  }
+  
