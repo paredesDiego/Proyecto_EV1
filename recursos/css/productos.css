@@ -63,6 +63,8 @@ nav, ul, li, button{
     color: var(--clr-main);
     text-align: left;
 }
+
+.boton-menu,
 .boton-carrito,
 .boton-carrito :active{
     background-color: var(--clr-white);
@@ -73,9 +75,10 @@ nav, ul, li, button{
     border-radius: 1rem;
 }
 
+
 /*Aside Footer*/
 footer{
     position: fixed;
-    bottom: 0%;
+    bottom: 0rem;
     margin: 1rem;
 }
